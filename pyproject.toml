@@ -6,7 +6,7 @@ authors = ["Torsten Wörtwein <twoertwein@gmail.com>"]
 license = "BSD-3-Clause"
 
 [tool.poetry.dependencies]
-python = "3.11.*"
+python = ">=3.11"
 python-tools = {git = "https://bitbucket.org/twoertwein/python-tools.git", rev = "879e7937313ff63c86fccae9b02fc5151e7ac069"}
 
 [build-system]
