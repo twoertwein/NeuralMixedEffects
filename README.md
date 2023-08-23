@@ -1,6 +1,6 @@
 # Neural Mixed Effect Models
 
-This repository contains the evaluation code for ["Neural Mixed Effects for Nonlinear Personalized Predictions"](preprint.pdf) which is submitted to [ICMI'23](https://icmi.acm.org/2023/).
+This repository contains the evaluation code for ["Neural Mixed Effects for Nonlinear Personalized Predictions"](https://arxiv.org/abs/2306.08149) which is accepted at [ICMI'23](https://icmi.acm.org/2023/).
 
 [Please see here](https://bitbucket.org/twoertwein/python-tools/src/879e7937313ff63c86fccae9b02fc5151e7ac069/python_tools/ml/mixed.py#lines-503), if you are looking for only the Neural Mixed Effects (NME) code.
 
